@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/open-feature/swift-sdk/compare/0.3.0...0.3.1) (2025-06-03)
+
+
+### ✨ New Features
+
+* Adding Cocoapods support ([#61](https://github.com/open-feature/swift-sdk/issues/61)) ([f481a51](https://github.com/open-feature/swift-sdk/commit/f481a51bd47a50025d9ba32a124f110eb0c8f0fc))
+
 ## [0.3.0](https://github.com/open-feature/swift-sdk/compare/0.2.1...0.3.0) (2025-01-31)
 
 
