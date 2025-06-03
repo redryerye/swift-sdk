@@ -27,7 +27,7 @@ jobs:
       # Update podspec version when a release PR is created or updated
       - name: Checkout code if PR is generated/updated
         if: ${{ steps.release.outputs.pr }}
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: ${{ fromJSON(steps.release.outputs.pr).headBranchName }}
 
